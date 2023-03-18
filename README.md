@@ -1,14 +1,14 @@
 # This file was created by Yaron Koresh, IL.
 
-#### This file contains attribution notices for third party software that may be contained in portions of my code.
+##### This file contains attribution notices for third party software that may be contained in portions of my code.
 
 ---
 
-#### Some third parties may appear multiple times, because they may have multiple and/or unknown open-source licenses.
+##### Some third parties may appear multiple times, because they may have multiple and/or unknown open-source licenses.
 
 ---
 
-## The following components are licensed under Apache License Version 2.0, January 2004:
+### The following components are licensed under Apache License Version 2.0, January 2004:
 
 * [adler-32](https://github.com/SheetJS/js-adler32).
 
@@ -221,7 +221,9 @@
    limitations under the License.
 ```
 
-## The following components are licensed under MIT License:
+---
+
+### The following components are licensed under MIT License:
 
 * [aes-js](https://github.com/ricmoo/aes-js).
 
@@ -229,7 +231,7 @@
 
 * [bcryptjs](https://github.com/dcodeIO/bcrypt.js).
 
-* [RSA and ECC in Javascript](http://www-cs-students.stanford.edu/~tjw/jsbn/).
+* [RSA and ECC in Javascript - except jsbn](http://www-cs-students.stanford.edu/~tjw/jsbn/).
 
 * [crypto-api](https://github.com/nf404/crypto-api).
 
@@ -269,11 +271,13 @@ The above copyright notice and this permission notice shall be included in all c
 THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 ```
 
-## The following components are licensed under BSD-3-Clause:
+---
+
+### The following components are licensed under BSD-3-Clause:
 
 * [twilio-video](https://www.npmjs.com/package/@twilio/video).
 
-* [RSA and ECC in Javascript](http://www-cs-students.stanford.edu/~tjw/jsbn/).
+* [RSA and ECC in Javascript - jsbn only](http://www-cs-students.stanford.edu/~tjw/jsbn/).
 
 ```
 Copyright (c) <YEAR>, <COPYRIGHT HOLDER>
@@ -301,7 +305,9 @@ OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF
 EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 ```
 
-# The SSLeay license:
+---
+
+### The SSLeay license:
 
 ```
 Copyright (C) 1995-1998 Eric Young (eay@cryptsoft.com)
@@ -348,4 +354,3 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 Except as contained in this notice, the name of a copyright holder shall not be used in advertising or otherwise to promote the sale, use or other dealings in this Software without prior written authorization of the copyright holder.
 ```
-
