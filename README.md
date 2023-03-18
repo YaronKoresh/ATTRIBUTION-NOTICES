@@ -1,6 +1,6 @@
 # This file was created by Yaron Koresh, IL.
 
-#### This file contains attribution notices for third party software that may be contained in portions of that code.
+#### This file contains attribution notices for third party software that may be contained in portions of my code.
 
 ---
 
