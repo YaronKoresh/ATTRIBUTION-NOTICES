@@ -301,7 +301,7 @@ OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF
 EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 ```
 
-# The SSLeay licence:
+# The SSLeay license:
 
 ```
 Copyright (C) 1995-1998 Eric Young (eay@cryptsoft.com)
