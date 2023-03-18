@@ -4,7 +4,7 @@
 
 ---
 
-#### Some third parties may return multiple times, because they may have multiple and/or unknown open-source licenses.
+#### Some third parties may appear multiple times, because they may have multiple and/or unknown open-source licenses.
 
 ---
 
