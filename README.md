@@ -261,6 +261,14 @@
 
 * [three](https://github.com/mrdoob/three.js).
 
+* [EaselJS](https://github.com/CreateJS/EaselJS).
+
+* [TweenJS](https://github.com/CreateJS/TweenJS).
+
+* [SoundJS](https://github.com/CreateJS/SoundJS).
+
+* [PreloadJS](https://github.com/CreateJS/PreloadJS).
+
 ```
 Copyright <YEAR> <COPYRIGHT HOLDER>
 
