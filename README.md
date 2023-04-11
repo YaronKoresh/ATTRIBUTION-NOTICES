@@ -225,6 +225,8 @@
 
 ### The following components are licensed under MIT License:
 
+* [jquery-parallax.js](https://www.npmjs.com/package/jquery-parallax.js)
+
 * [aes-js](https://github.com/ricmoo/aes-js).
 
 * [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms).
