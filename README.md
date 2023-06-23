@@ -270,6 +270,8 @@
 * [SoundJS](https://github.com/CreateJS/SoundJS).
 
 * [PreloadJS](https://github.com/CreateJS/PreloadJS).
+ 
+* [parallax.js](https://github.com/pixelcog/parallax.js).
 
 ```
 Copyright <YEAR> <COPYRIGHT HOLDER>
