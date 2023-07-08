@@ -224,7 +224,15 @@
 
 ### The following components are licensed under MIT License:
 
-* [jquery-parallax.js](https://www.npmjs.com/package/jquery-parallax.js)
+* [react](https://www.npmjs.com/package/react).
+
+* [react-error-boundary](https://www.npmjs.com/package/react-error-boundary).
+
+* [esbuild](https://www.npmjs.com/package/esbuild).
+
+* [redux](https://www.npmjs.com/package/redux).
+
+* [axios](https://www.npmjs.com/package/axios).
 
 * [aes-js](https://github.com/ricmoo/aes-js).
 
@@ -248,8 +256,6 @@
 
 * [typed.js](https://github.com/mattboldt/typed.js).
 
-* [bootstrap](https://github.com/twbs/bootstrap).
-
 * [jquery](https://github.com/jquery/jquery).
 
 * [braintree-web](https://github.com/braintree/braintree-web).
@@ -258,18 +264,8 @@
 
 * [twilio-conversations](https://www.npmjs.com/package/@twilio/conversations).
 
-* [pixijs](https://github.com/pixijs/pixijs).
-
 * [three](https://github.com/mrdoob/three.js).
 
-* [EaselJS](https://github.com/CreateJS/EaselJS).
-
-* [TweenJS](https://github.com/CreateJS/TweenJS).
-
-* [SoundJS](https://github.com/CreateJS/SoundJS).
-
-* [PreloadJS](https://github.com/CreateJS/PreloadJS).
- 
 * [parallax.js](https://github.com/pixelcog/parallax.js).
 
 ```
@@ -313,6 +309,41 @@ INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES
 HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
 OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE,
 EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+```
+---
+
+### The following components are licensed under BSD-2-Clause:
+
+* [uglify-js](https://www.npmjs.com/package/uglify-js).
+
+```
+Copyright <YEAR> (c) <COPYRIGHT HOLDER>
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions
+are met:
+
+    * Redistributions of source code must retain the above
+      copyright notice, this list of conditions and the following
+      disclaimer.
+
+    * Redistributions in binary form must reproduce the above
+      copyright notice, this list of conditions and the following
+      disclaimer in the documentation and/or other materials
+      provided with the distribution.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDER “AS IS” AND ANY
+EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR
+PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE
+LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY,
+OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO,
+PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR
+PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
+THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR
+TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF
+THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
+SUCH DAMAGE.
 ```
 
 ---
